@@ -1,6 +1,6 @@
 module github.com/kubewarden/policy-sdk-go
 
-go 1.26
+go 1.25
 
 require github.com/wapc/wapc-guest-tinygo v0.3.3
 
